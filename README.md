@@ -1,1 +1,1 @@
-# Softskills---Softskills-Building-Corporate-Culture
+This file contains aptitude tests and emails(softskill projects).
